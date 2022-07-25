@@ -1,1 +1,1 @@
-# Amazon-frontend-only
+# Amazon-clone
